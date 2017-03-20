@@ -23,7 +23,7 @@ public class Proyectodulce {
     public static void main(String[] args) {
         
 
-        System.out.println(porcentaje(10,5)+"%");
+        System.out.println(porcentaje(11,5)+"%");
     }
 
 }
