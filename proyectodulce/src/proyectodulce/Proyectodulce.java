@@ -27,7 +27,7 @@ public class Proyectodulce {
         
 
         System.out.println(porcentaje(10,5)+"%");
-        System.out.println(porcentajeRM(10,3)+"%");
+        System.out.println(porcentajeRM(10,4)+"%");
     }
 
 }
