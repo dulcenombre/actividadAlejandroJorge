@@ -19,11 +19,15 @@ public class Proyectodulce {
         
         return numb*100/numa;
     }
+    public static double porcentajeRM(int numa,int numRM){
+        return numRM*100/numa;
+    }
 
     public static void main(String[] args) {
         
 
         System.out.println(porcentaje(10,5)+"%");
+        System.out.println(porcentajeRM(10,3)+"%");
     }
 
 }
